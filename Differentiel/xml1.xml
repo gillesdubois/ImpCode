@@ -1,0 +1,3641 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<REQUEST>
+	<DEVICEID>USER-PC-2015-04-13-14-15-52</DEVICEID>
+	<CONTENT>
+		<BIOS>
+			<SMANUFACTURER>innotek GmbH</SMANUFACTURER>
+			<SMODEL>VirtualBox</SMODEL>
+			<SSN>Oracle Corporation</SSN>
+			<TYPE>Other</TYPE>
+			<BMANUFACTURER>innotek GmbH</BMANUFACTURER>
+			<BVERSION>VirtualBox</BVERSION>
+			<BDATE>12/01/2006</BDATE>
+			<ASSETTAG>Oracle Corporation</ASSETTAG>
+			<MMANUFACTURER />
+			<MMODEL />
+			<MSN />
+		</BIOS>
+		<CONTROLLERS>
+			<ID>1</ID>
+			<MANUFACTURER>(Contrôleurs ATA/ATAPI IDE standard)</MANUFACTURER>
+			<NAME>ATA Channel 0</NAME>
+			<CAPTION>ATA Channel 0</CAPTION>
+			<DESCRIPTION>Canal IDE</DESCRIPTION>
+			<VERSION />
+			<TYPE>IDE Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>2</ID>
+			<MANUFACTURER>(Contrôleurs ATA/ATAPI IDE standard)</MANUFACTURER>
+			<NAME>ATA Channel 0</NAME>
+			<CAPTION>ATA Channel 0</CAPTION>
+			<DESCRIPTION>Canal IDE</DESCRIPTION>
+			<VERSION />
+			<TYPE>IDE Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>3</ID>
+			<MANUFACTURER>(Contrôleurs ATA/ATAPI IDE standard)</MANUFACTURER>
+			<NAME>ATA Channel 1</NAME>
+			<CAPTION>ATA Channel 1</CAPTION>
+			<DESCRIPTION>Canal IDE</DESCRIPTION>
+			<VERSION />
+			<TYPE>IDE Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>4</ID>
+			<MANUFACTURER>Contrôleur Serial ATA standard AHCI 1.0</MANUFACTURER>
+			<NAME>Contrôleur Serial ATA standard AHCI 1.0</NAME>
+			<CAPTION>Contrôleur Serial ATA standard AHCI 1.0</CAPTION>
+			<DESCRIPTION>Contrôleur Serial ATA standard AHCI 1.0</DESCRIPTION>
+			<VERSION />
+			<TYPE>IDE Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>5</ID>
+			<MANUFACTURER>Intel</MANUFACTURER>
+			<NAME>Contrôleur IDE PCI Bus Master Intel(R) 82371AB/EB</NAME>
+			<CAPTION>Contrôleur IDE PCI Bus Master Intel(R) 82371AB/EB</CAPTION>
+			<DESCRIPTION>Contrôleur IDE PCI Bus Master Intel(R) 82371AB/EB</DESCRIPTION>
+			<VERSION />
+			<TYPE>IDE Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>6</ID>
+			<MANUFACTURER>(Contrôleur hôte USB standard)</MANUFACTURER>
+			<NAME>Contrôleur hôte USB OpenHCD standard</NAME>
+			<CAPTION>Contrôleur hôte USB OpenHCD standard</CAPTION>
+			<DESCRIPTION>Contrôleur hôte USB OpenHCD standard</DESCRIPTION>
+			<VERSION />
+			<TYPE>USB Controller</TYPE>
+		</CONTROLLERS>
+		<CONTROLLERS>
+			<ID>7</ID>
+			<MANUFACTURER>Intel</MANUFACTURER>
+			<NAME>Contrôleur d&apos;&apos;hôte amélioré USB2 Intel(R) 82801FB/FBM - 265C</NAME>
+			<CAPTION>Contrôleur d&apos;&apos;hôte amélioré USB2 Intel(R) 82801FB/FBM - 265C</CAPTION>
+			<DESCRIPTION>Contrôleur d&apos;&apos;hôte amélioré USB2 Intel(R) 82801FB/FBM - 265C</DESCRIPTION>
+			<VERSION />
+			<TYPE>USB Controller</TYPE>
+		</CONTROLLERS>
+		<CPUS>
+			<ID>7</ID>
+			<MANUFACTURER>GenuineIntel</MANUFACTURER>
+			<TYPE>Intel(R) Core(TM) i3-4000M CPU @ 2.40GHz</TYPE>
+			<SERIALNUMBER>Unknown</SERIALNUMBER>
+			<SPEED>2373</SPEED>
+			<CORES>1</CORES>
+			<L2CACHESIZE>0</L2CACHESIZE>
+			<CPUARCH>x86_64</CPUARCH>
+			<DATA_WIDTH>64</DATA_WIDTH>
+			<CURRENT_ADDRESS_WIDTH>32</CURRENT_ADDRESS_WIDTH>
+			<LOGICAL_CPUS>1</LOGICAL_CPUS>
+			<VOLTAGE />
+			<CURRENT_SPEED>2373</CURRENT_SPEED>
+			<SOCKET />
+		</CPUS>
+		<DRIVES>
+			<ID>38</ID>
+			<LETTER>C:</LETTER>
+			<TYPE>Hard Drive</TYPE>
+			<FILESYSTEM>NTFS</FILESYSTEM>
+			<TOTAL>25497</TOTAL>
+			<FREE>10514</FREE>
+			<NUMFILES>0</NUMFILES>
+			<VOLUMN />
+			<CREATEDATE>0000-00-00</CREATEDATE>
+		</DRIVES>
+		<DRIVES>
+			<ID>39</ID>
+			<LETTER>D:</LETTER>
+			<TYPE>CD-Rom Drive</TYPE>
+			<FILESYSTEM />
+			<TOTAL>0</TOTAL>
+			<FREE>0</FREE>
+			<NUMFILES>0</NUMFILES>
+			<VOLUMN />
+			<CREATEDATE>0000-00-00</CREATEDATE>
+		</DRIVES>
+		<INPUTS>
+			<ID>1</ID>
+			<TYPE>Keyboard</TYPE>
+			<MANUFACTURER />
+			<CAPTION>Étendu (101 ou 102 touches)</CAPTION>
+			<DESCRIPTION>Clavier standard PS/2</DESCRIPTION>
+			<INTERFACE />
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>2</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<CAPTION>Souris Microsoft PS/2</CAPTION>
+			<DESCRIPTION>Souris Microsoft PS/2</DESCRIPTION>
+			<INTERFACE>PS/2</INTERFACE>
+			<POINTTYPE />
+		</INPUTS>
+		<INPUTS>
+			<ID>3</ID>
+			<TYPE>Pointing</TYPE>
+			<MANUFACTURER>(Périphériques système standard)</MANUFACTURER>
+			<CAPTION>Périphérique d’entrée USB</CAPTION>
+			<DESCRIPTION>Périphérique d’entrée USB</DESCRIPTION>
+			<INTERFACE>USB</INTERFACE>
+			<POINTTYPE />
+		</INPUTS>
+		<MONITORS>
+			<ID>1</ID>
+			<MANUFACTURER>(Types d’écrans standard)</MANUFACTURER>
+			<CAPTION>Moniteur non Plug-and-Play générique</CAPTION>
+			<DESCRIPTION>Moniteur non Plug-and-Play générique</DESCRIPTION>
+			<TYPE>Moniteur non Plug-and-Play générique</TYPE>
+			<SERIAL />
+		</MONITORS>
+		<NETWORKS>
+			<ID>1</ID>
+			<DESCRIPTION>Carte Intel(R) PRO/1000 MT pour station de travail</DESCRIPTION>
+			<TYPE>Ethernet</TYPE>
+			<TYPEMIB>ethernetCsmacd</TYPEMIB>
+			<SPEED>1 Gb/s</SPEED>
+			<MACADDR>08:00:27:28:9F:26</MACADDR>
+			<STATUS>Up</STATUS>
+			<IPADDRESS>172.18.15.55</IPADDRESS>
+			<IPMASK>255.255.255.0</IPMASK>
+			<IPGATEWAY>172.18.15.254</IPGATEWAY>
+			<IPSUBNET>172.18.15.0</IPSUBNET>
+			<IPDHCP>172.18.15.254</IPDHCP>
+			<VIRTUALDEV>0</VIRTUALDEV>
+		</NETWORKS>
+		<PORTS>
+			<ID>1</ID>
+			<TYPE />
+			<NAME>Port imprimante</NAME>
+			<CAPTION>Port imprimante</CAPTION>
+			<DESCRIPTION>Port imprimante</DESCRIPTION>
+		</PORTS>
+		<PRINTERS>
+			<ID>1</ID>
+			<NAME>Microsoft XPS Document Writer</NAME>
+			<DRIVER>Microsoft XPS Document Writer</DRIVER>
+			<PORT>XPSPort:</PORT>
+			<DESCRIPTION />
+			<SERVERNAME />
+			<SHARENAME />
+			<RESOLUTION>600 x 600</RESOLUTION>
+			<COMMENT />
+			<SHARED>0</SHARED>
+			<NETWORK>0</NETWORK>
+		</PRINTERS>
+		<PRINTERS>
+			<ID>2</ID>
+			<NAME>Fax</NAME>
+			<DRIVER>Microsoft Shared Fax Driver</DRIVER>
+			<PORT>SHRFAX:</PORT>
+			<DESCRIPTION />
+			<SERVERNAME />
+			<SHARENAME />
+			<RESOLUTION>200 x 200</RESOLUTION>
+			<COMMENT />
+			<SHARED>0</SHARED>
+			<NETWORK>0</NETWORK>
+		</PRINTERS>
+		<SOFTWARES>
+			<ID>1432</ID>
+			<PUBLISHER />
+			<NAME>ImDisk Virtual Disk Driver</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>ImDisk</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1433</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft .NET Framework 4 Client Profile</NAME>
+			<VERSION>4.0.30319</VERSION>
+			<FOLDER>C:/Windows/Microsoft.NET/Framework/v4.0.30319/SetupCache/Client</FOLDER>
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>Microsoft .NET Framework 4 Client Profile</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1434</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Module linguistique Microsoft .NET Framework 4 Client Profile FRA</NAME>
+			<VERSION>4.0.30319</VERSION>
+			<FOLDER>C:/Windows/Microsoft.NET/Framework/v4.0.30319/SetupCache/ClientLP</FOLDER>
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>Microsoft .NET Framework 4 Client Profile FRA Language Pack</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1435</ID>
+			<PUBLISHER>Mozilla</PUBLISHER>
+			<NAME>Mozilla Firefox 37.0.1 (x86 fr)</NAME>
+			<VERSION>37.0.1</VERSION>
+			<FOLDER>C:/Program Files/Mozilla Firefox</FOLDER>
+			<COMMENTS>Mozilla Firefox 37.0.1 (x86 fr)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>Mozilla Firefox 37.0.1 (x86 fr)</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1436</ID>
+			<PUBLISHER>Mozilla</PUBLISHER>
+			<NAME>Mozilla Thunderbird 31.6.0 (x86 fr)</NAME>
+			<VERSION>31.6.0</VERSION>
+			<FOLDER>C:/Program Files/Mozilla Thunderbird</FOLDER>
+			<COMMENTS>Mozilla Thunderbird 31.6.0 (x86 fr)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>Mozilla Thunderbird 31.6.0 (x86 fr)</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1437</ID>
+			<PUBLISHER>Mozilla</PUBLISHER>
+			<NAME>Mozilla Maintenance Service</NAME>
+			<VERSION>31.6.0</VERSION>
+			<FOLDER />
+			<COMMENTS>Mozilla Maintenance Service 31.6.0 (x86 en-US)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>MozillaMaintenanceService</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1438</ID>
+			<PUBLISHER />
+			<NAME>Nmap 6.47</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>Nmap</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1439</ID>
+			<PUBLISHER>OCS Inventory NG Team</PUBLISHER>
+			<NAME>OCS Inventory NG Agent 2.1.1.1</NAME>
+			<VERSION>2.1.1.1</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>OCS Inventory NG Agent</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1440</ID>
+			<PUBLISHER>Oracle Corporation</PUBLISHER>
+			<NAME>Oracle VM VirtualBox Guest Additions 4.2.28</NAME>
+			<VERSION>4.2.28.0</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>Oracle VM VirtualBox Guest Additions</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1441</ID>
+			<PUBLISHER>CACE Technologies</PUBLISHER>
+			<NAME>WinPcap 4.1.3</NAME>
+			<VERSION>4.1.0.2980</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>WinPcapInst</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1442</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft .NET Framework 4 Client Profile FRA Language Pack</NAME>
+			<VERSION>4.0.30319</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{0F5B4A82-9DAF-3D13-8CB8-AEB25E4A614E}</GUID>
+			<LANGUAGE>Français (France)</LANGUAGE>
+			<INSTALLDATE>2015-04-15 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1443</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft .NET Framework 4 Client Profile</NAME>
+			<VERSION>4.0.30319</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}</GUID>
+			<LANGUAGE>Langue neutre</LANGUAGE>
+			<INSTALLDATE>2015-04-16 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1444</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2468871)</NAME>
+			<VERSION>1</VERSION>
+			<FOLDER />
+			<COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2468871.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2468871</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1445</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2533523)</NAME>
+			<VERSION>1</VERSION>
+			<FOLDER />
+			<COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2533523.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2533523</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1446</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2600217)</NAME>
+			<VERSION>1</VERSION>
+			<FOLDER />
+			<COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2600217.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2600217</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1447</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2604121)</NAME>
+			<VERSION>1</VERSION>
+			<FOLDER />
+			<COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this security update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2604121.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2604121</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1448</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2729449)</NAME>
+			<VERSION>1</VERSION>
+			<FOLDER />
+			<COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this security update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2729449.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2729449</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1449</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2737019)</NAME>
+			<VERSION>1</VERSION>
+			<FOLDER />
+			<COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this security update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2737019.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2737019</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1450</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2742595)</NAME>
+			<VERSION>1</VERSION>
+			<FOLDER />
+			<COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this security update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2742595.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2742595</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1451</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2789642)</NAME>
+			<VERSION>1</VERSION>
+			<FOLDER />
+			<COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this security update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2789642.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2789642</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1452</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2836939)</NAME>
+			<VERSION>1</VERSION>
+			<FOLDER />
+			<COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2836939.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2836939</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1453</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update for Microsoft .NET Framework 4 Client Profile (KB2836939v3)</NAME>
+			<VERSION>3</VERSION>
+			<FOLDER />
+			<COMMENTS>This update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2836939.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2836939v3</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1454</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2840628v2)</NAME>
+			<VERSION>2</VERSION>
+			<FOLDER />
+			<COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this security update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2840628.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2840628v2</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1455</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2858302v2)</NAME>
+			<VERSION>2</VERSION>
+			<FOLDER />
+			<COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this security update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2858302.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2858302v2</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1456</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2894842v2)</NAME>
+			<VERSION>2</VERSION>
+			<FOLDER />
+			<COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this security update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2894842.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2894842v2</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1457</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2972106)</NAME>
+			<VERSION>1</VERSION>
+			<FOLDER />
+			<COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this security update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2972106.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2972106</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1458</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2972215)</NAME>
+			<VERSION>1</VERSION>
+			<FOLDER />
+			<COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this security update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2972215.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2972215</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1459</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2978125)</NAME>
+			<VERSION>1</VERSION>
+			<FOLDER />
+			<COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this security update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2978125.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2978125</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1460</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB2979575v2)</NAME>
+			<VERSION>2</VERSION>
+			<FOLDER />
+			<COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this security update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/2979575.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB2979575v2</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1461</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update for Microsoft .NET Framework 4 Client Profile (KB3037578)</NAME>
+			<VERSION>1</VERSION>
+			<FOLDER />
+			<COMMENTS>This security update is for Microsoft .NET Framework 4 Client Profile. If you later install a more recent service pack, this security update will be uninstalled automatically. For more information, visit http://support.microsoft.com/kb/3037578.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{3C3901C5-3455-3E0A-A214-0B093A5070A6}.KB3037578</GUID>
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1462</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161</NAME>
+			<VERSION>9.0.30729.6161</VERSION>
+			<FOLDER />
+			<COMMENTS />
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{9BE518E6-ECC6-35A9-88E4-87755C07200F}</GUID>
+			<LANGUAGE>Anglais (États-Unis)</LANGUAGE>
+			<INSTALLDATE>2015-04-24 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1463</ID>
+			<PUBLISHER>Elcomsoft Co. Ltd.</PUBLISHER>
+			<NAME>Elcomsoft Forensic Disk Decryptor</NAME>
+			<VERSION>1.01.232.2377</VERSION>
+			<FOLDER>C:/Program Files/Elcomsoft Password Recovery/</FOLDER>
+			<COMMENTS>Elcomsoft Co. Ltd.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{D000F80E-5702-42F7-9949-C775B9A600CA}</GUID>
+			<LANGUAGE>Anglais (États-Unis)</LANGUAGE>
+			<INSTALLDATE>2015-04-16 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1464</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Visual C++ 2010 x86 Redistributable - 10.0.40219</NAME>
+			<VERSION>10.0.40219</VERSION>
+			<FOLDER />
+			<COMMENTS>Caution. Removing this product might prevent some applications from running.</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID>{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}</GUID>
+			<LANGUAGE>Langue neutre</LANGUAGE>
+			<INSTALLDATE>2015-04-24 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1465</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2849697</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://go.microsoft.com/fwlink/?LinkId=133041)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1466</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2849696</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://go.microsoft.com/fwlink/?LinkId=133041)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1467</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2841134</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://go.microsoft.com/fwlink/?LinkId=133041)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1468</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2670838</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1469</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2425227</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2425227)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1470</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2479943</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2479943)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1471</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2491683</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2491683)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1472</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2506212</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2506212)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1473</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2506928</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2506928)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1474</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2509553</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2509553)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1475</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2511455</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2511455)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1476</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2515325</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2515325)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1477</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2532531</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2532531)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1478</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2533552</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2533552)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1479</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2534366</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2534366)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1480</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2536275</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2536275)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1481</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2536276</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2536276)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1482</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2544893</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2544893)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1483</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2545698</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2545698)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1484</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2547666</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2547666)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1485</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2552343</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2552343)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1486</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2560656</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2560656)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1487</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2563227</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2563227)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1488</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2564958</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2564958)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1489</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2570947</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2570947)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1490</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2579686</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2579686)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1491</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2585542</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2585542)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1492</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2604115</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2604115)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1493</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2619339</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2619339)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1494</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2620704</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2620704)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1495</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2621440</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2621440)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1496</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2631813</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2631813)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1497</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2640148</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2640148)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1498</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2647753</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2647753)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1499</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2653956</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2653956)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1500</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2654428</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2654428)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1501</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2656356</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2656356)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1502</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2660075</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2660075)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1503</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2667402</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2667402)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1504</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2676562</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2676562)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1505</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2685811</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2685811)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1506</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2685813</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2685813)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1507</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2685939</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2685939)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1508</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2690533</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2690533)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1509</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2698365</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2698365)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1510</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2705219</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2705219)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1511</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2712808</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2712808)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1512</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2719857</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2719857)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1513</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2726535</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2726535)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1514</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2727528</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2727528)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1515</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2729094</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2729094)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1516</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2732059</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2732059)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1517</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2732487</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2732487)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1518</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2736422</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2736422)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1519</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2742599</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2742599)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1520</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2750841</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2750841)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1521</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2761217</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2761217)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1522</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2763523</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2763523)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1523</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2770660</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2770660)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1524</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2773072</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2773072)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1525</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2786081</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2786081)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1526</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2798162</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2798162)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1527</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2799926</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2799926)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1528</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2800095</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2800095)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1529</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2803821</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2803821)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1530</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2807986</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2807986)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1531</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2808679</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2808679)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1532</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2813347</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2813347)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1533</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2813430</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2813430)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1534</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2820331</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2820331)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1535</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2832414</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2832414)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1536</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2834140</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2834140)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1537</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2836942</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2836942)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1538</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2839894</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2839894)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1539</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2840631</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2840631)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1540</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2843630</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2843630)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1541</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2846960</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2846960)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1542</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2847927</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2847927)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1543</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2852386</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2852386)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1544</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2853952</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2853952)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1545</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2855844</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2855844)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1546</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2861191</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2861191)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1547</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2861698</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2861698)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1548</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2862152</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2862152)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1549</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2862330</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2862330)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1550</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2862335</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2862335)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1551</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2862973</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2862973)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1552</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2864058</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2864058)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1553</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2864202</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2864202)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1554</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2868038</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2868038)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1555</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2868116</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2868116)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1556</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2868626</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2868626)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1557</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2871997</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2871997)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1558</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2882822</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2882822)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1559</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2884256</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2884256)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1560</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2887069</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2887069)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1561</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2888049</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2888049)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1562</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2891804</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2891804)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1563</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2892074</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2892074)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1564</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2893294</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2893294)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1565</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2893519</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2893519)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1566</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2894844</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2894844)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1567</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2900986</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2900986)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1568</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2908783</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2908783)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1569</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2911501</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2911501)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1570</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2912390</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2912390)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1571</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2918077</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2918077)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1572</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2918614</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2918614)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1573</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2919469</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2919469)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1574</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2922229</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2922229)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1575</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2928562</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2928562)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1576</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2929733</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2929733)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1577</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2931356</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2931356)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1578</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2937610</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2937610)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1579</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2939576</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2939576)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1580</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2943357</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2943357)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1581</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2952664</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2952664)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1582</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2957189</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2957189)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1583</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2957503</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2957503)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1584</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2957509</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2957509)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1585</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2961072</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2961072)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1586</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2965788</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2965788)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1587</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2966583</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2966583)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1588</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2968294</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2968294)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1589</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2970228</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2970228)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1590</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2971850</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2971850)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1591</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2972100</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2972100)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1592</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2972211</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2972211)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1593</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2972280</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2972280)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1594</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2973112</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2973112)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1595</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2973201</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2973201)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1596</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2973351</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2973351)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1597</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2976897</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2976897)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1598</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2977292</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2977292)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1599</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Hotfix KB2977728</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2977728)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1600</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2977759</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2977759)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1601</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2978092</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2978092)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1602</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2978120</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2978120)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1603</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2978668</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2978668)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1604</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2978742</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2978742)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1605</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2979570</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2979570)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1606</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2984972</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2984972)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1607</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2985461</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2985461)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1608</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2990214</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2990214)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1609</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2991963</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2991963)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1610</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB2992611</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2992611)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1611</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB2993651</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=2993651)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1612</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3003743</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3003743)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1613</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3004361</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3004361)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1614</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3004375</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3004375)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1615</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB3004469</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3004469)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1616</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3005607</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3005607)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1617</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB3005788</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3005788)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1618</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB3006121</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3006121)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1619</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Hotfix KB3006137</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3006137)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1620</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB3006625</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3006625)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1621</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB3008627</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3008627)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1622</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3010788</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3010788)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1623</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3011780</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3011780)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1624</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB3013410</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3013410)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1625</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB3014406</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3014406)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1626</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3019215</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3019215)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1627</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3019978</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3019978)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1628</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB3020338</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3020338)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1629</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3021674</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3021674)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1630</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB3021917</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3021917)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1631</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3021952</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3021952)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1632</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3022777</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3022777)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1633</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB3023607</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3023607)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1634</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3030377</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3030377)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1635</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3032323</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3032323)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1636</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3033889</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3033889)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1637</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3033929</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3033929)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1638</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3034344</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3034344)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1639</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3035017</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3035017)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1640</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3035126</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3035126)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1641</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3035132</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3035132)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1642</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB3035583</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3035583)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1643</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3037574</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3037574)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1644</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3038314</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3038314)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1645</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3039066</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3039066)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1646</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3042553</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3042553)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1647</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3045685</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3045685)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1648</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3045999</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3045999)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1649</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3046269</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3046269)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1650</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3046306</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3046306)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1651</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Security Update KB3046482</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=3046482)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1652</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB976902</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=976902)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1653</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Service Pack KB976932</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=976932)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1654</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Update KB982018</NAME>
+			<VERSION />
+			<FOLDER />
+			<COMMENTS>(http://support.microsoft.com/?kbid=982018)</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>0</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>0000-00-00 00:00:00</INSTALLDATE>
+			<BITSWIDTH>0</BITSWIDTH>
+		</SOFTWARES>
+		<SOFTWARES>
+			<ID>1655</ID>
+			<PUBLISHER>Microsoft Corporation</PUBLISHER>
+			<NAME>Microsoft Windows 7 Édition Intégrale</NAME>
+			<VERSION>6.1.7601</VERSION>
+			<FOLDER />
+			<COMMENTS>Service Pack 1</COMMENTS>
+			<FILENAME />
+			<FILESIZE>0</FILESIZE>
+			<SOURCE>1</SOURCE>
+			<GUID />
+			<LANGUAGE />
+			<INSTALLDATE>2015-04-13 00:00:00</INSTALLDATE>
+			<BITSWIDTH>32</BITSWIDTH>
+		</SOFTWARES>
+		<SOUNDS>
+			<ID>1</ID>
+			<MANUFACTURER>Microsoft</MANUFACTURER>
+			<NAME>Périphérique High Definition Audio</NAME>
+			<DESCRIPTION>Périphérique High Definition Audio</DESCRIPTION>
+		</SOUNDS>
+		<STORAGES>
+			<ID>1</ID>
+			<MANUFACTURER>(Lecteurs de disque standard)</MANUFACTURER>
+			<NAME>VBOX HARDDISK ATA Device</NAME>
+			<MODEL>//./PHYSICALDRIVE0</MODEL>
+			<DESCRIPTION>Lecteur de disque</DESCRIPTION>
+			<TYPE>Fixed hard disk media</TYPE>
+			<DISKSIZE>25595</DISKSIZE>
+			<SERIALNUMBER>VBf482f6bb-2a905922</SERIALNUMBER>
+			<FIRMWARE>1.0</FIRMWARE>
+		</STORAGES>
+		<STORAGES>
+			<ID>2</ID>
+			<MANUFACTURER>(Lecteurs de CD-ROM standard)</MANUFACTURER>
+			<NAME>VBOX CD-ROM ATA Device</NAME>
+			<MODEL>VBOX CD-ROM ATA Device</MODEL>
+			<DESCRIPTION>Lecteur de CD-ROM</DESCRIPTION>
+			<TYPE>UNKNOWN</TYPE>
+			<DISKSIZE>58</DISKSIZE>
+			<SERIALNUMBER />
+			<FIRMWARE />
+		</STORAGES>
+		<VIDEOS>
+			<ID>1</ID>
+			<NAME>VirtualBox Graphics Adapter</NAME>
+			<CHIPSET />
+			<MEMORY>0</MEMORY>
+			<RESOLUTION>0 x 0</RESOLUTION>
+		</VIDEOS>
+		<HARDWARE>
+			<NAME>USER-PC</NAME>
+			<WORKGROUP>WORKGROUP</WORKGROUP>
+			<USERDOMAIN>user-PC</USERDOMAIN>
+			<OSNAME>Microsoft Windows 7 Édition Intégrale</OSNAME>
+			<OSVERSION>6.1.7601</OSVERSION>
+			<OSCOMMENTS>Service Pack 1</OSCOMMENTS>
+			<PROCESSORT>Intel(R) Core(TM) i3-4000M CPU @ 2.40GHz [1 core(s) x86_64]</PROCESSORT>
+			<PROCESSORS>2373</PROCESSORS>
+			<PROCESSORN>1</PROCESSORN>
+			<MEMORY>512</MEMORY>
+			<SWAP>1536</SWAP>
+			<IPADDR>172.18.15.55</IPADDR>
+			<DNS />
+			<DEFAULTGATEWAY />
+			<ETIME />
+			<LASTDATE>2015-04-28 11:47:53</LASTDATE>
+			<LASTCOME>2015-04-28 11:47:53</LASTCOME>
+			<QUALITY>2.2997</QUALITY>
+			<FIDELITY>7</FIDELITY>
+			<USERID>user</USERID>
+			<TYPE>0</TYPE>
+			<DESCRIPTION />
+			<WINCOMPANY />
+			<WINOWNER>user</WINOWNER>
+			<WINPRODID>00426-292-0000007-85532</WINPRODID>
+			<WINPRODKEY>D4F6K-QK3RD-TMVMJ-BBMRX-3MBMV</WINPRODKEY>
+			<USERAGENT>OCS-NG_WINDOWS_AGENT_v2.1.1.1</USERAGENT>
+			<CHECKSUM>524287</CHECKSUM>
+			<SSTATE>0</SSTATE>
+			<IPSRC>172.18.15.55</IPSRC>
+			<UUID>37F29B1E-4052-2641-8A1D-1EB5ADC1FE27</UUID>
+			<ARCH>x86 32 bit</ARCH>
+		</HARDWARE>
+		<ACCOUNTINFO>
+			<KEYNAME>TAG</KEYNAME>
+			<KEYVALUE>WIndows 7</KEYVALUE>
+		</ACCOUNTINFO>
+		<ACCOUNTINFO>
+			<KEYNAME>fields_5</KEYNAME>
+			<KEYVALUE />
+		</ACCOUNTINFO>
+	</CONTENT>
+	<QUERY>INVENTORY</QUERY>
+</REQUEST>
