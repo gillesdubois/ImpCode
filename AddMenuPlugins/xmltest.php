@@ -14,7 +14,7 @@ $menu->addChild("url","ms_plugins_name");
 $xml->asXML($xmlfile);
 
 $xmlfile = "urls.xml";
-
+		
 if (file_exists($xmlfile)){
 	$xml = simplexml_load_file($xmlfile);
 }
@@ -32,7 +32,9 @@ if (file_exists($xmlfile)){
 	$xml = simplexml_load_file($xmlfile);
 }
 
-$xml->pages->addChild("page","ms_plugin_name");
+$perm = $xml->addChild("pages");
+$perm->addChild("value","plugin_exmple");
+
 
 $xml->asXML($xmlfile);
 

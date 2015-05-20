@@ -33,7 +33,7 @@
   <menu-elem id="deployment">
     <label>g(512)</label>
     <url>ms_teledeploy</url>
-    <submenu>
+    <submenu id="ms_">
       <menu-elem id="ms_tele_package">
         <label>g(513)</label>
         <url>ms_tele_package</url>
@@ -50,7 +50,7 @@
         <label>g(662)</label>
         <url>ms_rules_redistrib</url>
       </menu-elem>
-    </submenu>
+    <menu-elem id="ms_tele_plugins"><label>g(500000)</label><url>ms_tele_plugins</url></menu-elem></submenu>
   </menu-elem>
   <menu-elem id="config">
     <label>g(107)</label>
@@ -60,10 +60,7 @@
         <label>g(107)</label>
         <url>ms_config</url>
       </menu-elem>
-      <menu-elem id="ms_users">
-        <label>g(1410)</label>
-        <url>ms_users</url>
-      </menu-elem>
+      
       <menu-elem id="ms_blacklist">
         <label>g(703)</label>
         <url>ms_blacklist</url>
@@ -148,29 +145,5 @@
       </menu-elem>
     </submenu>
   </menu-elem>
-  <menu-elem id="ms_help">
-    <label>g(570)</label>
-    <url>ms_help</url>
-    <submenu>
-      <menu-elem id="ms_wiki">
-        <label>g(1122)</label>
-        <url>ms_wiki</url>
-      </menu-elem>
-      <menu-elem id="ms_irc">
-        <label>g(1123)</label>
-        <url>ms_irc</url>
-      </menu-elem>
-      <menu-elem id="ms_ask">
-        <label>g(1376)</label>
-        <url>ms_ask</url>
-      </menu-elem>
-      <menu-elem id="ms_forums">
-        <label>g(1375)</label>
-        <url>ms_forums</url>
-      </menu-elem>
-      <menu-elem id="ms_offers">
-        <label>g(1296)</label>
-        <url>ms_offers</url>
-      </menu-elem>
-    </submenu>
-  </menu-elem></menu>
+  
+</menu>
